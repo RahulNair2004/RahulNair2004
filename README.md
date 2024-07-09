@@ -2,11 +2,12 @@
 
 ## About Me
 
-I'm a passionate software developer from Mumbai. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a passionate Software/Game developer from Mumbai. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🔭 I’m currently working on Jobify(A dynamic Web application)
+- 🔭 I’m currently working on Jobify(a dynamic Web Application)
 - 🌱 I’m currently learning Frontend Web Development - React and Backend Development - Node
-- 👯 I’m looking to collaborate on Hackathon and Game Jams
+- 👯 I’m looking to collaborate on Hackathons and Game Jams
+- ⚡ Fun fact: I am an avid reader with a profound appreciation for philosophical literature.
 
 ## Languages and Tools
 
@@ -26,11 +27,20 @@ I'm a passionate software developer from Mumbai. I enjoy creating things that li
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=radical)
+
+## GitHub Contributions
+
+![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=radical)
 
 ## Top Languages
 
-![Python](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=radical)
+
+## Contribution Graph
+
+[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github)](https://github.com/RahulNair2004)
+
 
 ## Connect with Me
 
@@ -38,10 +48,11 @@ I'm a passionate software developer from Mumbai. I enjoy creating things that li
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://yourportfolio.com)
 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <!--
-**yourusername/yourusername** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**RahulNair2004/RahulNair2004** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 -->
