@@ -1,12 +1,12 @@
-# Hi there, I'm [Rahul Nair] 👋
+# Hi there, I'm Rahul Nair 👋
 
 ## About Me
 
-I'm a passionate software developer from [Mum]. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a passionate software developer from Mumbai. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I love to explore new technologies and leverage them to solve real-life problems.
 
-- 🔭 I’m currently working on [Jobify(A dynamic Web application)]
-- 🌱 I’m currently learning [MERN]
-- 👯 I’m looking to collaborate on [Hackathon and Game Jams]
+- 🔭 I’m currently working on Jobify(A dynamic Web application)
+- 🌱 I’m currently learning Frontend Web Development - React and Backend Development - Node
+- 👯 I’m looking to collaborate on Hackathon and Game Jams
 
 ## Languages and Tools
 
