@@ -41,7 +41,6 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 
 [![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github)](https://github.com/RahulNair2004)
 
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
