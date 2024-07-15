@@ -53,27 +53,24 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
   </a>
 </p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=radical)
 
-## GitHub Contributions
+## 📊 GitHub Contributions
 
 ![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=radical)
 
 ## 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulNair&theme=onedark&column=4&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Contribution Graph
+## 📊 Contribution Graph
 
 [![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github)](https://github.com/RahulNair2004)
 
-## Connect with Me
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://yourportfolio.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulNair2004/)](https://www.linkedin.com/in/RahulNair2004/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RahulNair2004)](https://twitter.com/RahulNair2004) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
 
 
 <!--START_SECTION:waka-->
