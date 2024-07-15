@@ -37,6 +37,9 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=radical)
 
+## 🏆 My GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=RahulNair&theme=onedark&column=4&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Contribution Graph
 
 [![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github)](https://github.com/RahulNair2004)
