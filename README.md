@@ -9,21 +9,49 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 - 👯 I’m looking to collaborate on Hackathons and Game Jams
 - ⚡ Fun fact: I am an avid reader with a profound appreciation for philosophical literature.
 
-## Languages and Tools
+## 🌟 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
-![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=express)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=github)
+## 🚀 Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
+  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+</p>
 
 ## GitHub Stats
 
@@ -32,10 +60,6 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 ## GitHub Contributions
 
 ![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=radical)
 
 ## 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulNair&theme=onedark&column=4&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
@@ -49,6 +73,7 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourprofile)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=Portfolio)](https://yourportfolio.com)
+
 
 
 <!--START_SECTION:waka-->
