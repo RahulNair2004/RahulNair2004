@@ -57,7 +57,7 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 
 ## 📊 GitHub Stats
 
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=radical)
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=radical)
 
 ## 📊 GitHub Contributions
 
