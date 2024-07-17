@@ -9,8 +9,10 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 - 👯 I’m looking to collaborate on Hackathons and Game Jams
 - ⚡ Fun fact: I am an avid reader with a profound appreciation for philosophical literature.
 
-## 🌟 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🚀 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=radical)
 
 ## 🚀 Languages and Tools
 
