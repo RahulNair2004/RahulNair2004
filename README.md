@@ -59,7 +59,7 @@ I'm a passionate Software/Game developer from Mumbai. I enjoy creating things th
 
 ## 📊 GitHub Contributions
 
-![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=radical)
+![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=RahulNair2004&theme=radical)
 
 ## 🏆 My GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RahulNair&theme=onedark&column=4&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
