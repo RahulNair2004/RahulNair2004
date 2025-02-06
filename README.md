@@ -35,7 +35,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-76b041?style=flat&logo=seaborn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-dc6e87?style=flat&logo=huggingface&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-f1c40f?style=flat&logo=jupyter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-fcbf49?style=flat&logo=firebase&logoColor=white)
 
 
 ### **🛠️ Backend & Databases**
