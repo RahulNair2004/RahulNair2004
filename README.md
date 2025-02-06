@@ -74,7 +74,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RahulNair2004&theme=onedark&no-frame=true&margin-w=15&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulNair2004&theme=radical&no-frame=true&margin-w=15&column=5" />
 </p>
 
 ---
