@@ -1,84 +1,86 @@
-# Hi there, I'm Rahul Nair 👋
+<h1 align="center">Hi there, I'm Rahul Nair 👋</h1>
+<h3 align="center">Software & Game Developer | Passionate about Web, AI, and Game Development</h3>
 
-## About Me
-
-I'm a passionate Software/Game developer from Mumbai. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. I love to explore new technologies and leverage them to solve real-life problems.
-
-- 🔭 I’m currently working on Jobify(a dynamic Web Application)
-- 🌱 I’m currently learning Frontend Web Development - React and Backend Development - Node
-- 👯 I’m looking to collaborate on Hackathons and Game Jams
-- ⚡ Fun fact: I am an avid reader with a profound appreciation for philosophical literature.
-
-
-## 🚀 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=radical)
-
-## 🚀 Languages and Tools
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Passionate+Developer+%7C+Game+Creator;Full-Stack+%7C+MERN+%7C+Unity+%7C+C%23;Always+Learning+New+Techs;Open+to+Hackathons+%26+Collabs" alt="Typing SVG" />
 </p>
 
-## 📊 GitHub Stats
+---
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=radical)
+## 🚀 About Me  
 
-## 📊 GitHub Contributions
+- 🔭 Currently working on **Jobify**, a dynamic job application web app.  
+- 🌱 Learning **React.js, Node.js, AI & ML** to expand my skills.  
+- 🎮 Building **games with Unity & Unreal Engine**.  
+- 👯 Looking to **collaborate on hackathons & game jams**.  
+- 📖 Avid reader with a love for **philosophical literature**.  
 
-![Rahul's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=RahulNair2004&theme=radical)
+---
 
-## 🏆 My GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=RahulNair&theme=onedark&column=4&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+## ⚡ Tech Stack  
 
-## 📊 Contribution Graph
+### 💻 Languages & Frameworks  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
-[![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github)](https://github.com/RahulNair2004)
+### 🎮 Game Development  
+![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)&nbsp;
 
-## 🌐 Connect with Me
+### 🛠️ Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/RahulNair2004/)](https://www.linkedin.com/in/RahulNair2004/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/RahulNair2004)](https://twitter.com/RahulNair2004) [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+---
 
+## 📊 GitHub Stats  
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=tokyonight" width="48%" />
+</p>
 
-<!--
-**RahulNair2004/RahulNair2004** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RahulNair2004&theme=onedark&column=4&rank=S,AAA,AA,A" />
+</p>
+
+---
+
+## 🌐 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=github" />
+</p>
+
+---
+
+## 🎯 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/RahulNair2004/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/RahulNair2004">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=react" />
+  </a>
+</p>
