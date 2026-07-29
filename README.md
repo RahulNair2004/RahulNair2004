@@ -1,32 +1,31 @@
-<h1 align="center">Hi 👋, I'm Rahul Nair</h1>
+<div align="center">
 
-<h3 align="center">
-AI Engineer • Data Scientist • Machine Learning Enthusiast • Software Developer
-</h3>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"> Hi, I'm Rahul Nair
 
-<p align="center">
-Building intelligent systems using <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Software Engineering</strong>.
+### **AI Engineer • Data Scientist • Machine Learning Engineer**
+
+<p>
+Building intelligent systems powered by <strong>Artificial Intelligence</strong>,
+<strong>Machine Learning</strong>, <strong>Data Science</strong>, and
+<strong>Software Engineering</strong>.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Data+Science;Natural+Language+Processing;Large+Language+Models;Building+Real-World+AI+Products;Always+Learning..." />
-</p>
-
+<br>
 <p align="center">
 
-<a href="https://github.com/RahulNair2004">
-<img src="https://img.shields.io/github/followers/RahulNair2004?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/RahulNair2004">
-<img src="https://img.shields.io/github/stars/RahulNair2004?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=RahulNair2004&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-00C2FF?style=flat" />
+<img src="https://img.shields.io/badge/ML-Machine%20Learning-8A2BE2?style=flat" />
+<img src="https://img.shields.io/badge/Data-Data%20Science-00B894?style=flat" />
+<img src="https://img.shields.io/badge/NLP-Large%20Language%20Models-FF6B6B?style=flat" />
+<img src="https://img.shields.io/badge/Cloud-AWS-F59E0B?style=flat" />
 
 </p>
 
----
+<div align="center">
+
+### 🚀 *"Turning Data into Intelligence and Ideas into Products."*
+
+</div>
 
 # 🚀 About Me
 
@@ -34,36 +33,53 @@ Building intelligent systems using <strong>Artificial Intelligence</strong>, <st
 
 I enjoy solving practical problems using data, building end-to-end AI applications, and exploring modern technologies such as **LLMs**, **RAG**, **Deep Learning**, and **Data Analytics**.
 
-### 🔭 Currently Working On
+# 🚀 Current Journey
 
-- 📜 NLP-Based Poem Analyzer
-- ⚖️ AI Legal Document Assistant (RAG + LLM)
-- 🛡️ AI-Powered Intrusion Detection System
-- 📊 Supply Chain Analytics Dashboard
-- 🧠 ML-Driven Query Optimization using Graph Neural Networks
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Currently Building
+
+> 📜 **NLP-Based Poem Analyzer**  
+> ⚖️ **AI Legal Document Assistant (RAG + LLM)**  
+> 🛡️ **AI-Powered Intrusion Detection System**  
+> 📊 **Supply Chain Analytics Dashboard**  
+> 🧠 **ML-Driven Query Optimization (GNN)**
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌱 Currently Learning
 
-- Large Language Models (LLMs)
-- AI Agents
-- MLOps
-- AWS Cloud
-- Data Engineering
-- Advanced SQL
-- Deep Learning
-- React.js & FastAPI
+> 🤖 Large Language Models (LLMs)  
+> 🧩 AI Agents  
+> ☁️ AWS Cloud  
+> ⚙️ MLOps  
+> 🏗️ Data Engineering  
+> 🗄️ Advanced SQL  
+> 🧠 Deep Learning  
+> ⚛️ React.js & FastAPI
 
-### 💡 Interests
+</td>
+</tr>
+</table>
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Data Science
-- Data Analytics
-- NLP
-- Graph Neural Networks
-- Cloud Computing
-- Open Source
+---
+
+# 💡 Areas of Interest
+
+<div align="center">
+
+| 🧠 Artificial Intelligence | 🤖 Machine Learning | 📊 Data Science | ☁️ Cloud & DevOps |
+|:--------------------------:|:-------------------:|:---------------:|:-----------------:|
+| Deep Learning | Computer Vision | Data Analytics | AWS |
+| Large Language Models (LLMs) | Graph Neural Networks | SQL & Databases | Docker |
+| Natural Language Processing | AI Agents | Business Intelligence | MLOps |
+| Retrieval-Augmented Generation (RAG) | Reinforcement Learning | Data Engineering | Linux |
+
+</div>
 
 ---
 
@@ -85,24 +101,29 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-</p>
 
-**Libraries & Frameworks**
+<div align="center">
 
-- Scikit-Learn
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Hugging Face Transformers
-- LangChain
-- OpenCV
-- spaCy
-- NLTK
-- XGBoost
+`🧠 Scikit-Learn`
+`⚡ XGBoost`
+
+
+`📊 Pandas`
+`🔢 NumPy`
+`📈 Matplotlib`
+`🎨 Seaborn`
+
+`🤗 Hugging Face Transformers`
+`🔗 LangChain`
+`💬 spaCy`
+`📖 NLTK`
+
+
+`👁️ OpenCV`
+
+</div>
 
 ---
-
 ## 🌐 Frontend
 
 <p>
@@ -145,14 +166,15 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 ## 📊 Data Analytics
 
-- SQL
-- Power BI
-- Microsoft Excel
-- Tableau
-- Jupyter Notebook
-- Data Visualization
-- Feature Engineering
-- Statistical Analysis
+<div align="center">
+
+| 🗄️ Databases | 📈 Business Intelligence | 📊 Data Analysis | 📉 Visualization |
+|:------------:|:------------------------:|:----------------:|:----------------:|
+| SQL | Power BI | Jupyter Notebook | Data Visualization |
+| PostgreSQL | Microsoft Excel | Feature Engineering | Statistical Analysis |
+| MySQL | Tableau | Exploratory Data Analysis (EDA) | Dashboard Development |
+
+</div>
 
 ---
 
@@ -166,7 +188,6 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 ---
 
-# 🚀 Featured Projects
 
 # 🚀 Featured Projects
 
@@ -185,15 +206,11 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RahulNair2004&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulNair2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulNair2004&theme=tokyonight"/>
 
@@ -211,21 +228,11 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 ---
 
-# 🏆 GitHub Achievements
+# 📅 Contribution Calendar
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RahulNair2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNair2004&theme=tokyonight"/>
 
 </p>
 
@@ -233,27 +240,40 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 # 🎯 2026 Goals
 
-- ✅ Build production-ready AI applications
-- ✅ Publish research projects
-- ✅ Contribute to Open Source
-- ✅ Master Data Engineering
-- ✅ Learn MLOps & Cloud
-- ✅ Participate in Kaggle competitions
-- ✅ Strengthen DSA & System Design
-- ✅ Build scalable AI systems
+<div align="center">
+
+| 🚀 AI & Research | ☁️ Engineering | 📈 Career Growth |
+|:----------------:|:--------------:|:----------------:|
+|  Build Production-Ready AI Applications |  Master Data Engineering |  Publish Research Projects |
+|  Build Scalable AI Systems | Learn MLOps |  Contribute to Open Source |
+|  Develop AI Agents |  Master AWS Cloud |  Participate in Kaggle Competitions |
+|  Build End-to-End ML Projects |  Improve System Design |  Strengthen DSA |
+
+</div>
 
 ---
 
 # 📚 Currently Exploring
 
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
-- Graph Neural Networks
-- Data Engineering
-- Cloud Computing
-- Deep Learning
-- Supply Chain Analytics
+<div align="center">
+
+| 🤖 Artificial Intelligence | 📊 Data Science | ☁️ Cloud & Engineering |
+|:--------------------------:|:---------------:|:----------------------:|
+| Large Language Models (LLMs) | Supply Chain Analytics | AWS Cloud |
+| AI Agents | Data Engineering | MLOps |
+| Retrieval-Augmented Generation (RAG) | Advanced SQL | Docker |
+| Deep Learning | Business Intelligence | Linux |
+
+<br>
+
+| 🧠 Research |
+|:-----------:|
+| Graph Neural Networks |
+| Explainable AI (XAI) |
+| AI for Databases |
+| ML-Driven Query Optimization |
+
+</div>
 
 ---
 
