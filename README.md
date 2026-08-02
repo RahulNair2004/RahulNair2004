@@ -209,9 +209,7 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 </p>
 
 <p align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RahulNair2004&theme=tokyonight"/>
-
+  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
 </p>
 
 ---
@@ -226,12 +224,11 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 ---
 
-# 📅 Contribution Calendar
+# 📊 Coding Insights
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulNair2004&theme=tokyonight"/>
-
+  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
+  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
 </p>
 
 ---
