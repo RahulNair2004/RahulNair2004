@@ -203,9 +203,7 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulNair2004&theme=tokyonight&hide_border=true"/>
-
+  <img width="48%" src="https://streak-stats.demolab.com?user=RahulNair2004&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
