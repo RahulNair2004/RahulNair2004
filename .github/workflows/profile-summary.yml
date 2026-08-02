@@ -2,7 +2,7 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,8 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@main
         with:
           USERNAME: RahulNair2004
+          BRANCH_NAME: profile-summary-card-output
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
