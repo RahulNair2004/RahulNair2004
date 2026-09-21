@@ -203,30 +203,30 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats-eight.vercel.app/?user=RahulNair2004&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=RahulNair2004&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
-<p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulNair2004&theme=tokyo-night&hide_border=true"/>
-
-</p>
 
 ---
 
 # 📊 Coding Insights
 
 <p align="center">
-  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
-  <img width="48%" src="https://raw.githubusercontent.com/RahulNair2004/RahulNair2004/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulNair2004&theme=tokyonight"
+    alt="Most Commit Language"
+  />
+
+
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RahulNair2004&theme=tokyonight"
+    alt="Repositories Per Language"
+  />
 </p>
 
 ---
