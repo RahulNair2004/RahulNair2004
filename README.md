@@ -214,12 +214,12 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 
 # 📊 Coding Insights
 
-<p align="center">
+<!-- <p align="center">
   <img
     width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RahulNair2004&theme=tokyonight"
     alt="Most Commit Language"
-  />
+  /> -->
 
 
   <img
