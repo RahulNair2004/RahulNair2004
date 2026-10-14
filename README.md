@@ -262,7 +262,6 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 | 🧠 Research |
 |:-----------:|
 | Graph Neural Networks |
-| Explainable AI (XAI) |
 | AI for Databases |
 | ML-Driven Query Optimization |
 
