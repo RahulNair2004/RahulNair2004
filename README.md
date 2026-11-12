@@ -196,7 +196,7 @@ I enjoy solving practical problems using data, building end-to-end AI applicatio
 | ⚖️ **AI Legal Document Assistant** | AI-powered legal assistant that answers questions from legal documents using Retrieval-Augmented Generation (RAG). | Llama 3 • LangChain • FAISS • FastAPI • PostgreSQL | 🔗 [Repository](https://github.com/RahulNair2004/LawgicAI) |
 | 🛡️ **AI-Powered Intrusion Detection System** | Detects malicious network traffic using Machine Learning algorithms for cybersecurity applications. | Python • Scikit-Learn • Flask • Pandas | 🔗 [Repository](https://github.com/RahulNair2004/IntruGuard) |
 | 📜 **NLP-Based Poem Analyzer** | AI-powered poem analyzer capable of identifying themes, emotions, literary devices and sentiment. | Python • Transformers • spaCy • NLTK | 🔗 [Repository](https://github.com/RahulNair2004/PoemPal) |
-| 📈 **Supply Chain Analytics Dashboard** | End-to-end business analytics dashboard with SQL, Python and Power BI for supply chain optimization. | SQL • Python • Power BI • PostgreSQL | 🔗 [Repository](https://github.com/RahulNair2004/supply-chain-dashboard) |
+| 📈 **Supply Chain Analytics Dashboard** | End-to-end business analytics dashboard with SQL, Python and Power BI for supply chain optimization. | SQL • Python • Power BI • PostgreSQL | 🔗 [Repository](https://github.com/RahulNair2004/RetailPulse) |
 
 ---
 
